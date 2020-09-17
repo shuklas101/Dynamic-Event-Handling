@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic Event Subscription", "Dynamic Event Subscription\Dynamic Event Subscription.csproj", "{BA5ECC35-49BA-48C0-94D4-06CA8CAECEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrary", "CommonLibrary\CommonLibrary.csproj", "{FF2C8A8A-B6D3-4016-AF9F-49FDC97C5C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHandlerLibrary", "MethodHandlerLibrary\MethodHandlerLibrary.csproj", "{EC178338-E5CA-446A-8FFB-0B285A9EEFBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5ECC35-49BA-48C0-94D4-06CA8CAECEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5ECC35-49BA-48C0-94D4-06CA8CAECEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5ECC35-49BA-48C0-94D4-06CA8CAECEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5ECC35-49BA-48C0-94D4-06CA8CAECEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF2C8A8A-B6D3-4016-AF9F-49FDC97C5C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2C8A8A-B6D3-4016-AF9F-49FDC97C5C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2C8A8A-B6D3-4016-AF9F-49FDC97C5C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2C8A8A-B6D3-4016-AF9F-49FDC97C5C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC178338-E5CA-446A-8FFB-0B285A9EEFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC178338-E5CA-446A-8FFB-0B285A9EEFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC178338-E5CA-446A-8FFB-0B285A9EEFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC178338-E5CA-446A-8FFB-0B285A9EEFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
